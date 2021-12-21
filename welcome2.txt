@@ -1,1 +1,4 @@
  inicio de archivo 2
+medio archivo 2
+final archivo 2
+
