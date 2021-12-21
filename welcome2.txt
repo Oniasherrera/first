@@ -1,4 +1,8 @@
  inicio de archivo 2
+<<<<<<< HEAD
 medio archivo 2
 final archivo 2
 
+=======
+Fin de archivo 2
+>>>>>>> main
